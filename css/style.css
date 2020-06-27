@@ -957,3 +957,7 @@ body::before {
 .slick-slide .slide-image img{
   display: inline;
 }
+
+.last-section {
+  margin-bottom: 40px;
+}
